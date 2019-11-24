@@ -1,2 +1,2 @@
-# MyFirstGitRep
+# MyFirstGitRepo
 Basics
